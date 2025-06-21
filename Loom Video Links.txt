@@ -1,0 +1,28 @@
+# 1.showing a live running demo of the above in action:
+
+https://www.loom.com/share/426fcc09446948aca26137014acbddba?sid=43534195-3fb0-46d3-9850-ad318bb4b4fa
+
+
+
+# 2.Explaining the Pyspark code  for generating chunk files
+
+https://www.loom.com/share/e88224060e5a49ac9bf29f2076c41020?sid=839b65c9-a5cd-4d8b-b2ec-f3fb96b64c34
+
+
+
+# 3.Explaining the Pyspark code  for generating Detection files
+
+https://www.loom.com/share/99106147428b4a67b576697a3b25bb9b?sid=8675e193-1f43-4e42-8eab-3972914493ea
+
+
+
+# 4.Setting up Fabric environment for data processing
+
+https://www.loom.com/share/ca7957d4ebe44006a10017b41ec9a7fb?sid=d205d276-e067-4c04-b8ec-c2556577d580
+
+
+
+
+# 5.Showing sample outputs for detection and chunk file generation
+
+https://www.loom.com/share/c37cde2f9f9c41bcb0055c02bb73331c?sid=4182205b-ba8e-436f-94a0-3814e2816ba1
